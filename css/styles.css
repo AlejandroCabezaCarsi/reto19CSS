@@ -1,0 +1,81 @@
+.contenedorGlobal { 
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.celdasNormales { 
+    border-right: ridge black 0.2em ;
+    border-bottom: ridge black 0.2em  ;
+}
+
+.columna1Fila1{
+    border-left: ridge black 0.2em;
+    
+}
+.columna1Fila2{
+    border-left: ridge black 0.2em;
+}
+.columna1Fila3{
+    border-left: ridge black 0.2em;
+}
+.columna1Fila4{
+    border-left: ridge black 0.2em;
+}
+.columna1Fila5{
+    border-left: ridge black 0.2em;
+}
+.columna1Fila6{
+    border-left: ridge black 0.2em;
+}
+
+.columna1Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna2Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna3Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna4Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna5Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna6Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna7Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna8Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna9Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna10Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna11Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna12Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna13Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna14Fila1 {
+    border-top: ridge black 0.2em;
+}
+.columna15Fila1 {
+    border-top: ridge black 0.2em;
+}
